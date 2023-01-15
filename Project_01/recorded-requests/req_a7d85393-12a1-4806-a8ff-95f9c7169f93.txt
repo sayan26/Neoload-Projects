@@ -1,0 +1,9 @@
+GET http://www.gstatic.com/generate_204 HTTP/1.1
+Host: www.gstatic.com
+Proxy-Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en-IN;q=0.9,en-XA;q=0.8,en;q=0.7,bn-IN;q=0.6,bn;q=0.5,hi;q=0.4
+

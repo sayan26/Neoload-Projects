@@ -1,0 +1,17 @@
+GET https://jpetstore.aspectran.com/account/signonForm?created=true HTTP/2.0
+cache-control: max-age=0
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+sec-fetch-site: same-origin
+sec-fetch-mode: navigate
+sec-fetch-user: ?1
+sec-fetch-dest: document
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Microsoft Edge";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+referer: https://jpetstore.aspectran.com/account/newAccountForm
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: JSESSIONID=x6455hx0scdf1ublw0bxmtrq31284001.n0; _ga=GA1.1.1248644592.1673766119; __cf_bm=oueNRyxL3yZ9hnyddbydCghIE_JSI8NTUKg4smsU.40-1673766118-0-AfaQA1a9EqDC3pTKfFt8iF3FhLENFVTFN9ro+BSII4TN5maMRGMosJ+ddYbKWi51DUALU1OqNwcRsJqeXcaBxb1Als12emN0n+pDAGBWjEewKDteIk5u5YiWw78raFtGs0Tj1swwCHyFsRH1qjINhJw=; _ga_PBGW9BF7P6=GS1.1.1673766119.1.1.1673766154.0.0.0
+

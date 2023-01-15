@@ -1,0 +1,8 @@
+POST https://beacons.gcp.gvt2.com/domainreliability/upload HTTP/2.0
+content-length: 527
+content-type: application/json; charset=utf-8
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en-IN;q=0.9,en-XA;q=0.8,en;q=0.7,bn-IN;q=0.6,bn;q=0.5,hi;q=0.4
+
+{"entries":[{"http_response_code":204,"network_changed":false,"protocol":"QUIC","request_age_ms":69284,"request_elapsed_ms":121,"sample_rate":0.05,"server_ip":"[2404:6800:4009:826::2004]:443","status":"ok","url":"https://www.google.com/","was_proxied":false},{"http_response_code":200,"network_changed":false,"protocol":"QUIC","request_age_ms":69148,"request_elapsed_ms":275,"sample_rate":0.05,"server_ip":"[2404:6800:4009:826::2004]:443","status":"ok","url":"https://www.google.com/","was_proxied":false}],"reporter":"chrome"}

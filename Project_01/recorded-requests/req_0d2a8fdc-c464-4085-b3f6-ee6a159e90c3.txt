@@ -1,0 +1,14 @@
+GET https://aspectran.com/assets/img/favicon-32x32.png HTTP/2.0
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Microsoft Edge";v="108"
+sec-ch-ua-mobile: ?0
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76
+sec-ch-ua-platform: "Windows"
+accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+sec-fetch-site: same-site
+sec-fetch-mode: no-cors
+sec-fetch-dest: image
+referer: https://jpetstore.aspectran.com/
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cookie: _ga_PBGW9BF7P6=GS1.1.1673766119.1.0.1673766119.0.0.0; _ga=GA1.1.1248644592.1673766119; __cf_bm=oueNRyxL3yZ9hnyddbydCghIE_JSI8NTUKg4smsU.40-1673766118-0-AfaQA1a9EqDC3pTKfFt8iF3FhLENFVTFN9ro+BSII4TN5maMRGMosJ+ddYbKWi51DUALU1OqNwcRsJqeXcaBxb1Als12emN0n+pDAGBWjEewKDteIk5u5YiWw78raFtGs0Tj1swwCHyFsRH1qjINhJw=
+

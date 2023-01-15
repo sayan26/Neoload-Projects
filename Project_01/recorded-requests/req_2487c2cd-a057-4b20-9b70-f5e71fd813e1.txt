@@ -1,0 +1,8 @@
+POST https://beacons.gcp.gvt2.com/domainreliability/upload HTTP/2.0
+content-length: 639
+content-type: application/json; charset=utf-8
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en-IN;q=0.9,en-XA;q=0.8,en;q=0.7,bn-IN;q=0.6,bn;q=0.5,hi;q=0.4
+
+{"entries":[{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":200,"network_changed":false,"protocol":"QUIC","request_age_ms":301878,"request_elapsed_ms":152,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://beacons.gcp.gvt2.com/domainreliability/upload","was_proxied":false},{"failure_data":{"custom_error":"net::ERR_ABORTED"},"http_response_code":200,"network_changed":false,"protocol":"QUIC","request_age_ms":301879,"request_elapsed_ms":159,"sample_rate":1.0,"server_ip":"","status":"aborted","url":"https://beacons.gcp.gvt2.com/domainreliability/upload","was_proxied":false}],"reporter":"chrome"}

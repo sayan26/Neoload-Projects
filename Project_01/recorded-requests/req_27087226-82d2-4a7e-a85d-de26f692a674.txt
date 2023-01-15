@@ -1,0 +1,13 @@
+POST https://nav-edge.smartscreen.microsoft.com:443/api/browser/edge/navigate/3 HTTP/1.1
+Host: nav-edge.smartscreen.microsoft.com
+Connection: keep-alive
+Content-Length: 1568
+Authorization: SmartScreenHash eyJhdXRoSWQiOiIzODFkZGQxZS1lNjAwLTQyZGUtOTRlZC04YzM0YmY3M2YxNmQiLCAia2V5IjoieFNwRFBIdkR2TG54Q3hLdWd1Q2h6UT09IiwgImhhc2giOiI5bkE2ejRXSS9yTT0ifQ==
+Content-Type: application/json; charset=utf-8
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76
+Accept-Encoding: gzip, deflate, br
+
+{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76","identity":{"user":{"locale":"en-US"},"device":{"id":null,"customId":null,"onlineIdTicket":"t=GwAWAd9tBAAUbkDrC+qm3oy79YpqR0t44MGfO1wOZgAAEK/Pw9kbHJm4MnKL6CqI9v/gACb0EJEbYZxxpbuhXv90MSmZfseTKcVBqkRUwGjXtbJpcRi9B7C2NfP8wCeeXnmEDKX3foSIXfht/8KyiMSJ/ME1u6Y1Kcfhqrp7MgpKTYuzOXxgWgB4njt5jBSzjC3y3uupWfwhvSgWY0zVXJK3LTUznBzHnk3sbd1LQE87jf03xPv6YTWP+0K/4HnZclLdPaQ3Mf6M0IIUxEXMdBXhDXa4x41IoMhtiNnfocViD60pM0JCIusHABCkPVZPazNFS8ntVvqEQ3UXSr22lX9ys98pYcjYaDxkLOkowAO5QL4eHAE=&p=","family":3,"locale":"en-US","osVersion":"10.0.22621.1105.ni_release","browser":{"internet_explorer":"9.11.22621.0"},"netJoinStatus":2,"enterprise":{},"cloudSku":false,"architecture":9},"caller":{"locale":"en-US","name":"anaheim","version":"108.0.1462.76 (Official build) "},"client":{"version":281483711545350,"data":{"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638093500163774705","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-58b01f6ff6de90741656860514678121ca132db3b73265cc71112056741dc049"}}},"config":{"user":{"uriReputation":{"enforcedByPolicy":false,"level":"warn"}},"device":{"appControl":{"level":"anywhere"},"appReputation":{"enforcedByPolicy":false,"level":"warn"}}},"destination":{"uri":"http://www.neotys.com/recorder.html?lng=en","ip":null},"type":"top","forceServiceDetermination":false,"correlationId":"508ec860-7d26-45a6-8664-e592781f1bc5","synchronous":false}
